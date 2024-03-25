@@ -23,25 +23,6 @@ To integrate Cognifyz-UI components into your HTML/CSS projects, follow these si
 3. Link the CSS file in your HTML document's '<head>' section:
 ```javascript
 <link rel="stylesheet" href="style.css">
-
-```
-4. Utilize the predefined classes provided by Cognifyz-UI in your HTML markup to incorporate components:
-
-```HTML
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>My Cognifyz-UI App</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <button class="cui-btn cui-btn-primary">Click me</button>
-
-</body>
-</html>
-
 ```
 ## Contributing
 
